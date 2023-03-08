@@ -1,1 +1,3 @@
-echo "$(pwd)"
+#!/bin/bash
+pwd
+
