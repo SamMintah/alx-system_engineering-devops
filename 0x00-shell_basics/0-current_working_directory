@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "$(pwd)" chmod +x 0-current_working_directory
+echo "$(pwd)"
+chmod +x 0-current_working_directory
