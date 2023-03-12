@@ -1,2 +1,2 @@
 #!/bin/bash
-mode=$(stat -c %a olleh)
+chmod 0614 hello
