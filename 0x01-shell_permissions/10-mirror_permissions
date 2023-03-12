@@ -1,0 +1,2 @@
+#!/bin/bash
+mode=$(stat -c %a olleh)
