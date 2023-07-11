@@ -1,2 +1,2 @@
 #!/bin/bash
-current_user=$(id -un)echo "hello $current_user"
+current_user=$(id -un); echo "hello $current_user"
