@@ -1,3 +1,2 @@
 #!/bin/bash
-directories=$(echo $PATH | tr ':' '\n' | grep -v '^$' | wc -l)
-echo $directories
+directories=$(echo $PATH | tr ':' '\n' | grep -v '^$' | wc -l) echo $directories
